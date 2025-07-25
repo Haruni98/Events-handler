@@ -1,0 +1,10 @@
+#divShowEvents
+{
+    position: fixed;
+    top: 50%;
+    left: 45%;
+    width: 150px;
+    height: 100px;
+    overflow: auto;
+    background-color: green;
+}
